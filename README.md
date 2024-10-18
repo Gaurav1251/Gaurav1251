@@ -35,11 +35,14 @@ As a **DevOps Engineer**, I focus on:
 
 ## $${\color{#FF9800} \textbf{🔧 \ Tools}}$$
 
-| **Linux** | **Terraform** | **Jenkins** | **Kubernetes** | **Ansible** | **Git** | **Docker** | **GitHub** | **AWS** |
-|:---------:|:-------------:|:-----------:|:--------------:|:-----------:|:----------:|:-------:|:----------:|:----------:|
-|           |               |             |                |             |            |         |            |            | 
+| **Linux** | **Terraform** | **Jenkins** | **Kubernetes** | **Ansible** | **Git** | **Docker** | **GitHub** | **AWS** | **Bash** | **Azure** |
+|:---------:|:-------------:|:-----------:|:--------------:|:-----------:|:----------:|:-------:|:----------:|:----------:|:----------:|:----------:|
+|    ![Linux Tux Logo PNG Vector (EPS) Free Download](https://github.com/user-attachments/assets/7d34ddf2-d8b2-4f1d-8817-57c766ec8237)| ![Terraform Logo (HashiCorp) - PNG Logo Vector Brand Downloads (SVG, EPS)](https://github.com/user-attachments/assets/6a381b8b-cab5-4810-8fd0-a3ccb89d748a)              |   ![Jenkins Sticker](https://github.com/user-attachments/assets/e889c4ba-2d32-4942-90d5-b66a51c8c3b9)        |       ![Kubernetes Logo PNG Vector (SVG) Free Download](https://github.com/user-attachments/assets/6b1533b7-6563-4777-8f1a-0bb48508a6e6)  |  | ![git(1)](https://github.com/user-attachments/assets/f71049b9-64d3-4a72-bbe5-67937a15ac32)           |![Docker Moby logo vector (_AI +  SVG + ](https://github.com/user-attachments/assets/d8f84975-69cc-4f0b-b154-2a7f3e69ff2b)         |            | ![_AWS developer - devops_ Sticker for Sale by Kanha Design _ ⭐⭐⭐⭐⭐](https://github.com/user-attachments/assets/252301f0-7c9a-4991-8d5f-543227d1614c)           | ![gziqm6p7](https://github.com/user-attachments/assets/bcad47f8-9113-4b5b-99f2-1347de6c1fe5) | ![Microsoft Azure Logo PNG Vector (SVG) Free Download](https://github.com/user-attachments/assets/84778cbf-5116-4dc4-8ba6-73fcb3b7f645)|
+
+
 
 ---
+![devops](https://github.com/user-attachments/assets/7480a12d-50df-495b-ad4d-d8380656b15f)
 
 <br>
 
@@ -52,6 +55,7 @@ As a **DevOps Engineer**, I focus on:
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+  
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
