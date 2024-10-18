@@ -35,9 +35,9 @@ As a **DevOps Engineer**, I focus on:
 
 ## $${\color{#FF9800} \textbf{🔧 \ Tools}}$$
 
-| **Linux** | **Terraform** | **Jenkins** | **Kubernetes** | **Ansible** | **Ubuntu** | **Git** | **Docker** | **GitHub** | **VS Code** | **AWS** |
-|:---------:|:-------------:|:-----------:|:--------------:|:-----------:|:----------:|:-------:|:----------:|:----------:|:-----------:|:-------:|
-| ![Linux Tux Logo PNG Vector (EPS) Free Download](https://github.com/user-attachments/assets/987aa06a-2574-4676-86cd-3a72ee98663e) | ![Terraform Logo (HashiCorp) - PNG Logo Vector Brand Downloads (SVG, EPS)](https://github.com/user-attachments/assets/81f4eb2d-02db-4adc-b57b-372cdd42b609) | ✅           | ✅              | ✅           | ✅          | ✅       | ✅          | ✅          | ✅           | ✅       |
+| **Linux** | **Terraform** | **Jenkins** | **Kubernetes** | **Ansible** | **Git** | **Docker** | **GitHub** | **AWS** |
+|:---------:|:-------------:|:-----------:|:--------------:|:-----------:|:----------:|:-------:|:----------:|:----------:|
+|           |               |             |                |             |            |         |            |            | 
 
 ---
 
