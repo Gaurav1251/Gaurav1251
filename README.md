@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate DevOps Engineer with a strong fo
 
 ## 👨‍💻 About Me
 
-**I am a DevOps Engineer with a focus on:**
+### I am a DevOps Engineer with a focus on:
 
     1. Automation: Streamlining workflows and processes with tools like Jenkins, Ansible, and Terraform.
     
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a passionate DevOps Engineer with a strong fo
     
     6. Monitoring & Logging: Implementing solutions with Prometheus, Grafana for system monitoring and log analysis.
 
-**🛠 Skills**
+### 🛠 Skills
 
     1. Cloud Providers: AWS (Amazon Web Services), GCP (Google Cloud Platform)
     2. CI/CD Tools: Jenkins, GitLab CI, GitHub Actions
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I am a passionate DevOps Engineer with a strong fo
 
 
 
----
+
 ![devops](https://github.com/user-attachments/assets/e2bad44f-d58a-4d07-9966-e46fa9141867)
 
 
@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I am a passionate DevOps Engineer with a strong fo
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
+    
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
@@ -57,7 +58,7 @@ Welcome to my GitHub profile! I am a passionate DevOps Engineer with a strong fo
 ---
 <br><br>
 
-**📁 Repositories**
+### 📁 Repositories
 <br>
 1. AWS_Tasks
 
@@ -71,10 +72,10 @@ A repository demonstrating how to work with various DevOps tools such as Docker,
 
     Link to repository
 
-**📫 Contact**
+### 📫 Contact
 
 Feel free to reach out for collaborations or questions about DevOps practices!
 
     Email: your.email@example.com
     LinkedIn: linkedin.com/in/yourprofile
-    GitHub: github.com/yourusername
+    GitHub: github.com/Gaurav1251/
