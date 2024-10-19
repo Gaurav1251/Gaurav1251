@@ -28,6 +28,7 @@ As a **DevOps Engineer**, I focus on:
 - **Configuration Management**: Ansible <br>
 - **Version Control**: Git (GitHub, GitLab) <br>
 - **Scripting**: Bash <br>
+- **Programming**: *Java* <br>
 - **Monitoring & Logging**: Prometheus, Grafana <br>
 
 ---
@@ -73,6 +74,8 @@ A collection of tasks related to **AWS services**, including **Route 53**, **ACM
 
 ### 2. [**DevOps_Tasks**](#)
 A repository demonstrating how to work with various **DevOps tools** such as **Docker**, **Jenkins**, **Kubernetes**, **Terraform**, and **Ansible**.
+
+
 
 ---
 
