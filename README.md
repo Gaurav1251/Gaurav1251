@@ -101,7 +101,7 @@ A collection of automated scripts designed to streamline the installation and se
 
 Feel free to reach out for collaborations or questions about DevOps practices!
 
-- **Email 📧**:[gauravkondhalkar874@gmail.com](gauravkondhalkar874@gmail.com)
+- **Email 📧**:[gauravkondhalkar874@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTwtflqhvktPkCNtNVSCjvLPhMKfmfPrRgkwKdHqlCxMGpzBxTJxNlTTBdWhpdpfLzpJb)
 - **LinkedIn 🔗** : [linkedin.com/in/yourprofile](#)
 - **GitHub 👤**: [github.com/Gaurav1251/](https://github.com/Gaurav1251)
 
